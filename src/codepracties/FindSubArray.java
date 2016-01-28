@@ -1,6 +1,7 @@
 package codepracties;
 
 //Find the subarray with least average
+
 public class FindSubArray {
 
 	public static void main(String[] args) {
