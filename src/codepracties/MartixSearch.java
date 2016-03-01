@@ -24,7 +24,7 @@ public class MartixSearch {
 	public static void main(String[] args) {
 
 		int[][] aa = { { 10, 20, 30 }, { 11, 21, 31 }, { 12, 22, 32 } };
-		search(aa, 10).display();
+		search(aa, 30).display();
 
 	}
 }
